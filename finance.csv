@@ -1,2 +1,7 @@
 date,amount,category,description
-31-07-24,4500.0,Income,salary
+
+31-07-2024,1200.0,Expense,Bought car
+01-09-2023,500.0,Expense,laptop
+20-07-2024,3000.0,Income,Salary
+25-07-2024,500.0,Expense,food
+20-07-2024,121.0,Income,freelance
